@@ -1,5 +1,5 @@
 [project]
-name = "Crum-CDPDN"
+name = "Churn-CDPDN"
 version = "0.1.0"
 description = "DS Pdn Proyect for Ms. Class"
 authors = [
