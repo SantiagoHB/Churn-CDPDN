@@ -1,0 +1,34 @@
+{
+  "template": "https://github.com/JoseRZapata/data-science-project-template",
+  "commit": "37268c1e712eb7cc16c8835f5268fc8504eb6215",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Crum-CDPDN",
+      "repo_name": "Crum-CDPDN",
+      "github_username": "SantiagoHB",
+      "author_name": "SantiagoHB",
+      "author_email": "SantiagoHB",
+      "description": "DS Pdn Proyect for Ms. Class",
+      "compatible_python_versions": "3.12",
+      "mkdocs": true,
+      "codecov": true,
+      "license": "Not open source",
+      "_copy_without_render": [
+        ".code_quality/*",
+        ".vscode/*",
+        "config/*",
+        "data/*",
+        "src/*",
+        "tests/*",
+        ".editorconfig",
+        ".pre-commit-config.yaml",
+        "codecov.yaml",
+        "docs/*"
+      ],
+      "_template": "https://github.com/JoseRZapata/data-science-project-template",
+      "_commit": "37268c1e712eb7cc16c8835f5268fc8504eb6215"
+    }
+  },
+  "directory": null
+}
