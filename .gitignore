@@ -5,6 +5,10 @@ data/**
 !data/**/
 !data/README.md
 
+# allow model artifacts for deployment
+!data/06_models/*.pkl
+!data/06_models/*.json
+
 # also keep all .gitkeep files
 !.gitkeep
 
